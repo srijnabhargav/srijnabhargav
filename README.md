@@ -1,27 +1,34 @@
-<h1 align="center">Hi 👋, I'm Srijna</h1>
-<h3 align="center">Final Year CSE Student | Full Stack Developer | Open Source Contributor</h3>
+<img width="1983" height="793" alt="ChatGPT Image Apr 28, 2026, 11_03_20 PM" src="https://github.com/user-attachments/assets/9887c94d-e367-406b-b2c5-9ee9ed297660" />
+
+---
+## 🪄 About Me
+
+**software engineer (in progress)**  
+*/ˈsɒft.weə ˌen.dʒɪˈnɪə/*  
+
+*noun*  
+A developer who builds real-world applications, explores how systems work, and turns ideas into functional, thoughtful (and sometimes aesthetic) solutions.
+
+### synonyms: builder, problem-solver, creator  
 
 ---
 
-## 💫 About Me
-- 💻 Currently building projects using the MERN stack  
-- 🌱 Exploring AI/ML and improving problem-solving skills  
-- 🚀 Open Source Contributor & GSoC Aspirant  
-- 🤝 Looking to collaborate on meaningful real-world projects  
-- 💬 Ask me about C++, DSA, Web Development, and Git  
-- ⚡ Fun fact: I believe consistency > motivation  
+## ⚡ Dev Notes
+
+- “If it works, don’t touch it.”  
+- “E = mc² → Error = More Code²”  
+- Debugging: where logic meets reality  
 
 ---
 
-## 🌷 A Little More About Me
-🎓 Final year B.Tech (CSE) student at Rajasthan College of Engineering for Women  
-🧠 Strong foundation in Data Structures & Algorithms (C++)  
-⚙️ Interested in System Design and scalable applications  
-🌍 Aspiring to work remotely and contribute to impactful products  
+## 📜 Current Focus
+
+Building projects • Contributing to open source • Preparing for GSoC  
+Growing as a developer through real-world experience  
 
 ---
 
-## 🌐 Connect with Me
+##  🪄 Connect
 <p align="center">
 <a href="https://linkedin.com/in/srijnabhargav">LinkedIn</a> •
 <a href="https://github.com/srijnabhargav">GitHub</a> •
@@ -32,24 +39,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  🪄 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,postgres,git,github" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 📜 Featured Project
 
 ### 🔹 Alumni Network Platform
 A full-stack platform designed to connect students with alumni for mentorship and networking.  
 - Built using MERN stack  
-- Enables communication, profile building, and networking  
+- Enables communication, profiles, and networking  
 - Focused on bridging the gap between students & alumni  
 
 ---
 
-## 📊 GitHub Stats
+## 🪄 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=srijnabhargav&show_icons=true&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijnabhargav&layout=compact&hide_border=true" />
@@ -57,5 +64,6 @@ A full-stack platform designed to connect students with alumni for mentorship an
 
 ---
 
-## ✨ Quote
-_"Building, learning, and growing — one project at a time."_ 🌱
+## ✨ Final Spell
+
+_"Lumos — choosing to learn, build, and move forward."
