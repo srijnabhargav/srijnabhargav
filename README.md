@@ -6,7 +6,7 @@
 **software engineer (in progress)**  
 */ˈsɒft.weə ˌen.dʒɪˈnɪə/*  
 
-*noun*  
+_noun_  
 A developer who builds real-world applications, explores how systems work, and turns ideas into functional, thoughtful (and sometimes aesthetic) solutions.
 
 ### synonyms: builder, problem-solver, creator  
@@ -28,31 +28,10 @@ Growing as a developer through real-world experience
 
 ---
 
-##  🪄 Connect
-<p align="center">
-<a href="https://linkedin.com/in/srijnabhargav">LinkedIn</a> •
-<a href="https://github.com/srijnabhargav">GitHub</a> •
-<a href="https://x.com/srijna_singh">X</a> •
-<a href="https://instagram.com/srijnabhargav">Instagram</a> •
-<a href="mailto:srijnabhargav@gmail.com">Email</a>
-</p>
-
----
-
 ##  🪄 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,postgres,git,github" />
 </p>
-
----
-
-## 📜 Featured Project
-
-### 🔹 Alumni Network Platform
-A full-stack platform designed to connect students with alumni for mentorship and networking.  
-- Built using MERN stack  
-- Enables communication, profiles, and networking  
-- Focused on bridging the gap between students & alumni  
 
 ---
 
@@ -66,4 +45,15 @@ A full-stack platform designed to connect students with alumni for mentorship an
 
 ## ✨ Final Spell
 
-_"Lumos — choosing to learn, build, and move forward."
+_"Lumos — choosing to learn, build, and move forward."_
+
+---
+
+###  🪄 Connect
+<p align="center">
+<a href="https://linkedin.com/in/srijnabhargav">LinkedIn</a> •
+<a href="https://github.com/srijnabhargav">GitHub</a> •
+<a href="https://x.com/srijna_singh">X</a> •
+<a href="https://instagram.com/srijnabhargav">Instagram</a> •
+<a href="mailto:srijnabhargav@gmail.com">Email</a>
+</p>
