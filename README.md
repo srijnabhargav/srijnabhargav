@@ -35,13 +35,6 @@ Growing as a developer through real-world experience
 
 
 
-## 🪄 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srijnabhargav&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijnabhargav&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 
 
 ## ✨ Final Spell
