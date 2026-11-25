@@ -48,7 +48,6 @@ _"Lumos — choosing to learn, build, and move forward."_
 <p align="center">
 <a href="https://linkedin.com/in/srijnabhargav">LinkedIn</a> •
 <a href="https://github.com/srijnabhargav">GitHub</a> •
-<a href="https://x.com/srijna_singh">X</a> •
 <a href="https://instagram.com/srijnabhargav">Instagram</a> •
 <a href="mailto:srijnabhargav@gmail.com">Email</a>
 </p>
