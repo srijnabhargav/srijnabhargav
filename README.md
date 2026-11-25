@@ -23,7 +23,7 @@ A developer who builds real-world applications, explores how systems work, and t
 
 ## 📜 Current Focus
 
-Building projects • Contributing to open source • Preparing for GSoC  
+Building projects • Contributing to open source  
 Growing as a developer through real-world experience  
 
 
